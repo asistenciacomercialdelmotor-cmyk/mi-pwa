@@ -5,8 +5,8 @@ const ASSETS_TO_CACHE = [
   'offline.html',
   'manifest.json',
   // Note: App shell icons should be cached when they exist
-  'icons/icon-192x192.png',
-  'icons/icon-512x512.png'
+  'icon-192x192.png',
+  'icon-512x512.png'
 ];
 
 // Install Event: Cache App Shell
